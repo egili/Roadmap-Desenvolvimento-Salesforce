@@ -1,6 +1,6 @@
 # Roadmap Desenvolvimento Salesforce
 
-#### Roadmap focado em tópicos de desenvolvimento Salesforce, totalmente em portugues brasileiro 🇧🇷
+#### Roadmap focado em tópicos de desenvolvimento Salesforce
 <br>
   <span>Inspirado por <a href="https://github.com/ChuckJonas/Salesforce-Developer-Roadmap">Salesforce-Developer-Roadmap</a> e <a href="https://roadmap.sh/">roadmap.sh</a>.</span>
 <br>
