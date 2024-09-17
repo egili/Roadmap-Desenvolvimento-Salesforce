@@ -10,5 +10,5 @@
 <ul>
   <li><a href="https://github.com/egili/Salesforce-Developer-Roadmap-/issues/new" target="_blank">Abra uma issue</a> para propor melhorias ou tirar dúvidas;</li>
   
-  <li>Para ser um colaborar, <a href="https://github.com/egili/Salesforce-Developer-Roadmap-/issues/new" target="_blank">abra uma issue</a> solicitando acesso de edição no roadmap (informar endereço de email).</li>
+  <li>Para ser um colaborador, <a href="https://github.com/egili/Salesforce-Developer-Roadmap-/issues/new" target="_blank">abra uma issue</a> solicitando acesso de edição no roadmap (informar endereço de email).</li>
 </ul>
